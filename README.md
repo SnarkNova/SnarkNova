@@ -1,2 +1,1 @@
-# SnarkNova
-* Python Developer
+# ¯\_(ツ)_/¯
